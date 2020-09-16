@@ -1,3 +1,6 @@
+@import url("https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;1,300&family=Francois+One&family=Oswald&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200&display=swap');
+
 * {
     margin: 0;
     padding: 0;
@@ -13,10 +16,7 @@ body {
 }
 
 /*---------TEMPLATE----------*/
-img {
-  max-width: 100%;
-  height: auto;
-}
+
 .seriesList > section {
     display: grid;
     max-width: 1200px;
@@ -29,7 +29,7 @@ img {
 .seriesList > section > h2 {
     grid-column: 1/-1;
     margin-bottom: -40px;
-    font-family: sans-serif;
+    font-family: Oswald;
 }
 
 
@@ -38,15 +38,20 @@ img {
     display: flex;
     flex-direction: column;
     background: #5F6273;
-    box-shadow: 3px 3px 5px #000000ab;
-    position: relative;
+    border-radius: 1.5em;
     position: relative;
 }
 
-.series p {
-    color: white;
-    font-size: 1rem;
-    line-height: 1.5rem;
+.series-image {
+    position: relative;
+    padding: 10px;
+    max-width: 100%;
+    height: auto;
+    border-radius: 1.5em;
+    height: auto;
+    margin: 0 auto;
+
+
 }
 
 .seriesBody {
@@ -56,14 +61,67 @@ img {
     flex-direction: column;
     justify-content: space-between;
     padding: 1em;
+    justify-content: center;
+
+}
+
+.seriesBody > p {
+    padding: 15px 0;
+    color: white;
+    font-family: cormorant garamond;
 }
 
 .seriesBody button {
+    position: relative;
+    height: 30px;
+    width: 120px;
     margin-top: auto;
-    background-color: #5F6273;
-    color: black;
+    background-image: linear-gradient(to right, #E64E33, #C4419F);
+    */ background: #111;
+    color: white;
     border: 0;
-    padding: 8px;
-    font-size: 1.3rem;
+    padding: 5px;
+    font-size: 16px;
     cursor: pointer;
+    border-radius: 15px;
+    font-family: baskerville;
+    letter-spacing: 1px;
+    margin: 10px 0;
+    cursor: pointer;
+}
+
+.data_top {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+.seriesBody h4, p {
+    color: white;
+    font-family: cormorant garamond;
+}
+.data_top > h3 {
+    font-family: francois one;
+    font-size: 20px;
+}
+
+.years {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+  
+    font-size: 20px;
+}
+
+.years h4 {
+    margin: 0
+}
+
+.years p {
+    margin: 0 4px;
+}
+
+.data_bottom {
+    display: flex;
+    justify-content: space-between;
 }
