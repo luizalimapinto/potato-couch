@@ -1,14 +1,14 @@
 //fetch data
-fetch("https://spreadsheets.google.com/feeds/cells/1MMJzzShrpagE7OWDcyHWPO1bMSKmJOI2AhX3ks-POyg/1/public/full?alt=json")
-    .then(function (response) {
-        console.log(response)
-        return response.json();
-    })
-    .then(function (data) {
-
-        dataReceived(data);
-    })
-
+getData ()
+function getData() {
+	fetch("data.json")
+	.then(response => response.json())
+	.then(data => processData(data));
+}
+function processData(data) {
+	console.log(data)
+}
+s
 function dataReceived(series) {
     //loop through products
     series.forEach(showSerie)
@@ -23,10 +23,10 @@ const temp = document.querrySelector("#seriesTemplate").content;
 
     //fill out the template
     
-myCopy.querySelector(".data_name")
+myCopy.querySelector(".data_name").textContet = myProduct.name
 
 
-
+ 
 
 
 
