@@ -37,6 +37,13 @@ function createSections(categories){
         h2.textContent = category;
         section.appendChild(h2)
         document.querySelector(".seriesList").appendChild(section)
+		
+		const navBtn = document.createElement("a");
+		navBtn.setAttribute(`href`,`#${category}`);
+		navBtn.setAttribute("class", "categories");
+		navBtn.textContent = category;
+		
+    	document.querySelector(".dd-content").appendChild(navBtn);
     })
 }
 
