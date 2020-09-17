@@ -224,11 +224,12 @@ p {
 
 
 .dd-content {
+	z-index: 1;
 	display: none;
 	position: absolute;
 	background-color: #313149;
 	min-width: 141px;
-	z-index: 1;
+	
 }
 
 .dd-content a {
@@ -238,6 +239,9 @@ p {
 	display: block;
 	text-align: left;
 	text-decoration: none;
+	background-color: #363355;
+	
+	
 }
 
 .dropdown:hover .dd-content {
