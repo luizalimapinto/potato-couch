@@ -1,5 +1,6 @@
 //fetch data
-getData()
+getData();
+const categoriesArray = [];
 
 function getData() {
 	fetch("database.json")
@@ -8,6 +9,7 @@ function getData() {
 }
 
 function dataReceived(series) {
+	createCategoriesArray(series);
 	//loop through products
 	series.forEach(showSerie)
 }
@@ -17,6 +19,15 @@ function categoriesReceived(cats) {
 	fetchSeries();
 }
 
+function createCategoriesArray(data){
+	data.forEach(serie => {
+		const serieCategory = serie.category;
+		if (!categoriesArray.includes(serieCategory)){
+			categoriesArray.push(serieCategory)
+		}
+	})
+	console.log(categoriesArray)
+}
 function createSections(categories) {
 	categories.forEach(category => {
 		const section = document.createElement("section");
