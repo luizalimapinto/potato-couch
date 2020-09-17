@@ -267,7 +267,7 @@
  },
  {
    "id": 20,
-   "category": "Drama, Horror, Romance",
+   "category": "Drama",
    "related": "The Originals",
    "name": "The Vampire Diaries",
    "seasons": 8,
@@ -295,7 +295,7 @@
  },
  {
    "id": 22,
-   "category": "Drama, Romance",
+   "category": "Drama",
    "related": "",
    "name": "Gossip Girl",
    "seasons": 6,
@@ -318,7 +318,7 @@
    "started": 2018,
    "ended": "2018",
    "description": "In the year 1930, vampires have infiltrated Tokyo to feast upon its unsuspecting citizens. As the number of victims continues to rise, the city's authorities decide to hire the Jaegers—a strange, diverse group of individuals tasked by the V Shipping Company to hunt down vampires around the world. Carrying musical instrument cases to disguise their identity, the Jaegers battle the vampires with the same mercilessness demonstrated by their foes",
-   "image": "sirius the jaeger",
+   "image": "sirius-the-jaeger",
    "stars": "7,1"
  },
  {
@@ -332,7 +332,7 @@
    "started": 2015,
    "ended": "2017",
    "description": "Supersonic monkeys, vampires, talking fishmen, and all sorts of different supernatural monsters living alongside humans—this has been part of daily life in Hellsalem's Lot, formerly known as New York City, for some time now. When a gateway between Earth and the Beyond opened three years ago, New Yorkers and creatures from the other dimension alike were trapped in an impenetrable bubble and were forced to live together. Libra is a secret organization composed of eccentrics and superhumans, tasked with keeping order in the city and making sure that chaos doesn't spread to the rest of the world.",
-   "image": "kekkai sensen",
+   "image": "kekkai-sensen",
    "stars": "7,8"
  },
  {
@@ -346,7 +346,7 @@
    "started": 2016,
    "ended": "2019",
    "description": "While starving on a riverbank, Atsushi saves a rather eccentric man named Osamu Dazai from drowning. Whimsical suicide enthusiast and supernatural detective, Dazai has been investigating the same tiger that has been terrorizing the boy. Together with Dazai's partner Doppo Kunikida, they solve the mystery, but its resolution leaves Atsushi in a tight spot. As various odd events take place, Atsushi is coerced into joining their firm of supernatural investigators, taking on unusual cases the police cannot handle, alongside his numerous enigmatic co-workers.\n",
-   "image": "bungou stray dogs",
+   "image": "bungou-stray-dogs",
    "stars": "8,2"
  },
  {
@@ -360,7 +360,7 @@
    "started": 2016,
    "ended": "2019",
    "description": "Eighth-grader Shigeo \"Mob\" Kageyama has tapped into his inner wellspring of psychic prowess at a young age. But the power quickly proves to be a liability when he realizes the potential danger in his skills. Choosing to suppress his power, Mob's only present use for his ability is to impress his longtime crush, Tsubomi, who soon grows bored of the same tricks.",
-   "image": "mob 100",
+   "image": "mob-100",
    "stars": "8,9"
  },
  {
@@ -374,7 +374,7 @@
    "started": 2006,
    "ended": "2016",
    "description": "Losing a loved one is so painful that one may sometimes wish to be able to resurrect them—a weakness that the enigmatic Millennium Earl exploits. To make his mechanical weapons known as \"Akuma,\" he uses the souls of the dead that are called back. Once a soul is placed in an Akuma, it is trapped forever, and the only way to save them is to exorcise them from their vessel using the Anti-Akuma weapon, \"Innocence.\"",
-   "image": "d'gray man",
+   "image": "d-gray-man",
    "stars": "8,1"
  },
  {
@@ -388,7 +388,7 @@
    "started": 1999,
    "ended": "-",
    "description": "Gol D. Roger was known as the \"Pirate King,\" the strongest and most infamous being to have sailed the Grand Line. The capture and execution of Roger by the World Government brought a change throughout the world. His last words before his death revealed the existence of the greatest treasure in the world, One Piece. It was this revelation that brought about the Grand Age of Pirates, men who dreamed of finding One Piece—which promises an unlimited amount of riches and fame—and quite possibly the pinnacle of glory and the title of the Pirate King.\n",
-   "image": "one piece",
+   "image": "one-piece",
    "stars": "8,5"
  },
  {
@@ -416,7 +416,7 @@
    "started": 2019,
    "ended": "-",
    "description": "A family of former child heroes, now grown apart, must reunite to continue to protect the world.",
-   "image": "the umbrella academy",
+   "image": "the-umbrella-academy",
    "stars": "8,0"
  },
  {
@@ -430,7 +430,7 @@
    "started": 2019,
    "ended": "2019",
    "description": "Medical docuseries focusing on patients with unique illnesses and their journeys to find a diagnosis and cure.",
-   "image": "diagnosis netflix",
+   "image": "diagnosis",
    "stars": "7,8"
  },
  {
@@ -444,7 +444,7 @@
    "started": 2018,
    "ended": "2019",
    "description": "A documentary series that looks to explore the big questions of today.",
-   "image": "explained netflix",
+   "image": "explained",
    "stars": "8,1"
  },
  {
@@ -458,7 +458,7 @@
    "started": 2019,
    "ended": "-",
    "description": "Six strangers share a fabulous house in Tokyo, looking for love while living under the same roof. With no script what happens next is up to them.",
-   "image": "terrace house tokyo",
+   "image": "terrace-house-tokyo",
    "stars": "7,5"
  },
  {
@@ -472,7 +472,7 @@
    "started": 2017,
    "ended": "2018",
    "description": "A celebration of extraordinary residential architecture from around the world with insight from an accomplished architect and his enthusiastic co-host.",
-   "image": "The World's Most Extraordinary Homes",
+   "image": "The-World's-Most-Extraordinary-Homes",
    "stars": "7,5"
  },
  {
@@ -486,7 +486,7 @@
    "started": 2009,
    "ended": "-",
    "description": "RuPaul searches for America's next drag superstar.",
-   "image": "rupaul drag race",
+   "image": "rupaul-drag-race",
    "stars": "8,5"
  },
  {
@@ -500,7 +500,7 @@
    "started": 2006,
    "ended": "-",
    "description": "A reality competition show in which chefs compete against one another in culinary challenges and are a judged by a panel of food and wine experts, with one or more contestants eliminated each episode.",
-   "image": "top chef",
+   "image": "top-chef",
    "stars": "7,6"
  },
  {
@@ -514,7 +514,7 @@
    "started": 2020,
    "ended": "-",
    "description": "In this travel show, actor Zac Efron journeys around the world with wellness expert Darin Olien in search of healthy, sustainable ways to live.",
-   "image": "Down to Earth with Zac Efron",
+   "image": "Down-to-Earth-with-ZacEfron",
    "stars": "8,1"
  },
  {
@@ -528,7 +528,7 @@
    "started": 2017,
    "ended": "-",
    "description": "Eighteen competitors from six countries compete against each other in an intense obstacle course for cash prizes, individual glory and national pride.",
-   "image": "ultimate beastmaster",
+   "image": "ultimate-beastmaster",
    "stars": "7,3"
  },
  {
@@ -542,7 +542,7 @@
    "started": 2018,
    "ended": "-",
    "description": "chilling glimpse into the first-person accounts from people who have witnessed horrifying, peculiar, extraordinary supernatural events and other unexplained phenomena that continue to haunt them.",
-   "image": "haunted show",
+   "image": "haunted",
    "stars": "4,5"
  },
  {
@@ -570,7 +570,7 @@
    "started": 2020,
    "ended": "2020",
    "description": "A figure skating Olympic hopeful's struggle to balance love, family and fragile mental health as her dream of winning takes a dizzying hold.",
-   "image": "spinning out",
+   "image": "spinning-out",
    "stars": "7,7"
  },
  {
@@ -617,7 +617,7 @@
  },
  {
    "id": 45,
-   "category": "Comedy, Mystery, Sci-Fi",
+   "category": "Sci-Fi",
    "related": "The Boys",
    "name": "Upload",
    "seasons": 2,
@@ -645,7 +645,7 @@
  },
  {
    "id": 47,
-   "category": "Biography, Crime, Drama",
+   "category": "Drama",
    "related": "Caught",
    "name": "Alias Grace",
    "seasons": 1,
@@ -743,7 +743,7 @@
  },
  {
    "id": 54,
-   "category": "Comedy, Drama, Fantasy",
+   "category": "Fantasy",
    "related": "Dead Like Me: Life After Death",
    "name": "Dead Like Me",
    "seasons": 2,
@@ -757,7 +757,7 @@
  },
  {
    "id": 55,
-   "category": "Crime, Drama, Mystery",
+   "category": "Drama",
    "related": "The Morning Show",
    "name": "Defending Jacob",
    "seasons": 1,
@@ -799,7 +799,7 @@
  },
  {
    "id": 58,
-   "category": "Comedy, Drama",
+   "category": "Drama",
    "related": "Striking Out",
    "name": "Doctor Doctor",
    "seasons": 4,
@@ -813,7 +813,7 @@
  },
  {
    "id": 59,
-   "category": "Comedy, Drama",
+   "category": "Drama",
    "related": "Atypical",
    "name": "Everything Sucks!",
    "seasons": 1,
@@ -841,7 +841,7 @@
  },
  {
    "id": 61,
-   "category": "Comedy, Drama, Romance",
+   "category": "Romance",
    "related": "Awkward",
    "name": "Faking It",
    "seasons": 3,
@@ -855,7 +855,7 @@
  },
  {
    "id": 62,
-   "category": "Comedy, Drama, Romance",
+   "category": "Romance",
    "related": "I Am Not Okay With This",
    "name": "Feel Good",
    "seasons": 1,
@@ -925,7 +925,7 @@
  },
  {
    "id": 67,
-   "category": "Comedy, Drama, Romance",
+   "category": "Romance",
    "related": "The Fosters",
    "name": "Good Trouble",
    "seasons": 3,
@@ -953,7 +953,7 @@
  },
  {
    "id": 69,
-   "category": "Mystery, Horror, Drama",
+   "category": "Horror",
    "related": "Harper's Globe",
    "name": "Harper's Island",
    "seasons": 1,
@@ -981,7 +981,7 @@
  },
  {
    "id": 71,
-   "category": "Drama, Horror",
+   "category": "Horror",
    "related": "The Cured",
    "name": "In the Flesh",
    "seasons": 2,
@@ -1009,7 +1009,7 @@
  },
  {
    "id": 73,
-   "category": "Comedy, Drama",
+   "category": "Drama",
    "related": "Katy Keene",
    "name": "Life Sentence",
    "seasons": 1,
@@ -1023,7 +1023,7 @@
  },
  {
    "id": 74,
-   "category": "Reality, Romance",
+   "category": "Romance",
    "related": "UnWell",
    "name": "Love on the Spectrum",
    "seasons": 1,
@@ -1037,7 +1037,7 @@
  },
  {
    "id": 75,
-   "category": "Reality, Comedy",
+   "category": "Comedy",
    "related": "Face Off",
    "name": "Making It",
    "seasons": 2,
@@ -1051,7 +1051,7 @@
  },
  {
    "id": 76,
-   "category": "Fantasy, Drama",
+   "category": "Fantasy",
    "related": "Wynonna Earp",
    "name": "Motherland: Fort Salem",
    "seasons": 2,
@@ -1065,7 +1065,7 @@
  },
  {
    "id": 77,
-   "category": "Comedy, Drama, Romance",
+   "category": "Comedy",
    "related": "Skins",
    "name": "My Mad Fat Diary ",
    "seasons": 3,
@@ -1079,7 +1079,7 @@
  },
  {
    "id": 78,
-   "category": "Comedy, Fantasy",
+   "category": "Comedy",
    "related": "Onisciente",
    "name": "Nobody's Looking",
    "seasons": 1,
@@ -1121,7 +1121,7 @@
  },
  {
    "id": 81,
-   "category": "Drama, Thriller",
+   "category": "Drama",
    "related": "Tabula Rasa",
    "name": "Parfum",
    "seasons": 1,
@@ -1135,7 +1135,7 @@
  },
  {
    "id": 82,
-   "category": "Crime, Drama, Mystery",
+   "category": "Crime",
    "related": "The Fix",
    "name": "Proven Innocent",
    "seasons": 1,
@@ -1163,7 +1163,7 @@
  },
  {
    "id": 84,
-   "category": "Comedy, Crime, Drama",
+   "category": "Crime",
    "related": "Love Life",
    "name": "Search Party",
    "seasons": 4,
@@ -1191,7 +1191,7 @@
  },
  {
    "id": 86,
-   "category": "Comedy, Crime, Drama",
+   "category": "Comedy",
    "related": "Everything Sucks!",
    "name": "Trinkets",
    "seasons": 2,
@@ -1219,7 +1219,7 @@
  },
  {
    "id": 88,
-   "category": "Action, Drama, Mystery",
+   "category": "Drama",
    "related": "Helstrom",
    "name": "Utopia",
    "seasons": 1,
@@ -1233,7 +1233,7 @@
  },
  {
    "id": 89,
-   "category": "Comedy, Fantasy, Horror",
+   "category": "Comedy",
    "related": "Toast of London",
    "name": "What We Do in the Shadows",
    "seasons": 3,
@@ -1247,7 +1247,7 @@
  },
  {
    "id": 90,
-   "category": "Adventure, Reality",
+   "category": "Adventure",
    "related": "You vs. Wild",
    "name": "World's Toughtest Race",
    "seasons": 1,
