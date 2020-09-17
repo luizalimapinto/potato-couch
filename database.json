@@ -10,7 +10,7 @@
    "started": 2005,
    "ended": "2020",
    "description": "Two brothers follow their father's footsteps as hunters, fighting evil supernatural beings of many kinds, including monsters, demons and gods that roam the earth.",
-   "image": "supernantural",
+   "image": "supernatural",
    "stars": "8"
  },
  {
@@ -197,7 +197,7 @@
  },
  {
    "id": 15,
-   "category": "",
+   "category": "Drama",
    "related": "Elite",
    "name": "Baby",
    "seasons": 3,
@@ -920,7 +920,7 @@
    "started": 2019,
    "ended": "",
    "description": "Investigators help distraught individuals track down and confront people who vanished by stopping all communications and blocking them.",
-   "image": "ghosted-love-gone-missing",
+   "image": "ghosted",
    "stars": "5,3"
  },
  {
