@@ -1,26 +1,36 @@
 //fetch data
-fetch("https://docs.google.com/spreadsheets/d/1MMJzzShrpagE7OWDcyHWPO1bMSKmJOI2AhX3ks-POyg/edit#gid=0")
+fetch("https://spreadsheets.google.com/feeds/cells/1MMJzzShrpagE7OWDcyHWPO1bMSKmJOI2AhX3ks-POyg/1/public/full?alt=json")
     .then(function (response) {
         console.log(response)
         return response.json();
     })
     .then(function (data) {
-        console.log(data)
+
         dataReceived(data);
     })
 
 function dataReceived(series) {
-     console.log(series)
+    //loop through products
+    series.forEach(showSerie)
 }
+//executed once for each serie
+function showSerie(mySerie) {
+    console.log(mySerie) 
+    //finding the template
+const temp = document.querrySelector("#seriesTemplate").content;
+    //clone the template
+    const myCopy = temp.cloneNode(true);
 
-//loop through products
+    //fill out the template
+    
+myCopy.querySelector(".data_name")
 
-//finding the template
 
-//clone the template
 
-//fill out the template
+
+
 
 //append
-
-
+const parentElem = document.querySelector("section#sci-fi");
+parentElem.appendChild(myCopy)
+}
