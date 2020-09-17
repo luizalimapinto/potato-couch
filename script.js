@@ -17,13 +17,13 @@ function dataReceived(series) {
 function showSerie(mySerie) {
     console.log(mySerie) 
     //finding the template
-const temp = document.querrySelector("#seriesTemplate").content;
+const temp = document.querySelector("#seriesTemplate").content;
     //clone the template
     const myCopy = temp.cloneNode(true);
 
     //fill out the template
     
-/* myCopy.querySelector(".data_name").textContet = myProduct.name */
+/* myCopy.querySelector(".data_name").textContet = mySerie.name */
 
 
  
@@ -31,6 +31,6 @@ const temp = document.querrySelector("#seriesTemplate").content;
 
 
 //append
-const parentElem = document.querySelector("section#sci-fi");
+const parentElem = document.querySelector("section#drama");
 parentElem.appendChild(myCopy)
 }
