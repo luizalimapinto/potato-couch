@@ -1,12 +1,10 @@
 //fetch data
 getData ()
+
 function getData() {
 	fetch("movies-data.json")
 	.then(response => response.json())
-	.then(data => processData(data));
-}
-function processData(data) {
-	console.log(data)
+	.then(data => dataReceived(data));
 }
 
 function dataReceived(series) {
@@ -22,8 +20,8 @@ const temp = document.querySelector("#seriesTemplate").content;
     const myCopy = temp.cloneNode(true);
 
     //fill out the template
-    
-/* myCopy.querySelector(".data_name").textContet = mySerie.name */
+ mySerie   
+myCopy.querySelector(".data_name").textContet = mySerie.name 
 
 
  
@@ -31,6 +29,6 @@ const temp = document.querySelector("#seriesTemplate").content;
 
 
 //append
-const parentElem = document.querySelector("section#drama");
+const parentElem = document.querySelector("section#sci-fi");
 parentElem.appendChild(myCopy)
 }
