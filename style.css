@@ -87,7 +87,7 @@ body {
 .seriesBody button {
 	position: relative;
 	height: 30px;
-	width: 130px;
+	width: 150px;
 	margin: auto;
 	background-image: linear-gradient(to right, #E64E33, #C4419F);
 	background: #111;
