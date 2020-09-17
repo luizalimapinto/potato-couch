@@ -1,14 +1,14 @@
 //fetch data
 getData ()
 function getData() {
-	fetch("data.json")
+	fetch("movies-data.json")
 	.then(response => response.json())
 	.then(data => processData(data));
 }
 function processData(data) {
 	console.log(data)
 }
-s
+
 function dataReceived(series) {
     //loop through products
     series.forEach(showSerie)
