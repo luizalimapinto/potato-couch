@@ -1,3 +1,147 @@
+@import url("https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;1,300&family=Francois+One&family=Oswald&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+
+body {
+    margin: 0;
+    background-color: #313149;
+
+}
+
+/*---------TEMPLATE----------*/
+
+.seriesList > section {
+    display: grid;
+    max-width: 1200px;
+    margin: auto;
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+    grid-gap: 50px;
+    margin-bottom: 50px;
+}
+
+.seriesList > section > h2 {
+    grid-column: 1/-1;
+    margin-bottom: -40px;
+    font-family: Oswald;
+    color: white;
+    margin-top: 50px;
+
+}
+
+
+
+.series {
+    display: flex;
+    flex-direction: column;
+    background: #5F6273;
+    border-radius: 1.5em;
+    position: relative;
+}
+
+.series_image {
+    position: relative;
+    padding: 10px;
+    max-width: 100%;
+    height: auto;
+    border-radius: 1.5em;
+    height: auto;
+    margin: 0 auto;
+
+
+}
+
+.seriesBody {
+    padding: 0;
+    display: flex;
+    flex: auto;
+    flex-direction: column;
+    justify-content: space-between;
+    padding: 1em;
+    justify-content: center;
+
+}
+
+.data_description {
+    padding: 15px 0;
+    color: white;
+    font-family: cormorant garamond;
+}
+
+.button-div {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.seriesBody button {
+    position: relative;
+    height: 30px;
+    width: 130px;
+    margin:auto;
+    background-image: linear-gradient(to right, #E64E33, #C4419F);
+    */ background: #111;
+    color: white;
+    border: 0;
+    padding: 5px;
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: 15px;
+    font-family: baskerville;
+    letter-spacing: 1px;
+    margin: 10px 0;
+    cursor: pointer;
+}
+
+.seriesBody button:hover {
+    transform: scale(1.1);
+}
+
+.data_top {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+
+.seriesBody h4,
+p {
+    color: white;
+    font-family: cormorant garamond;
+}
+
+.data_top > h3 {
+    font-family: francois one;
+    font-size: 25px;
+    color: #111;
+    letter-spacing: 1px;
+}
+
+.years {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+
+    font-size: 20px;
+}
+
+.years h4 {
+    margin: 0
+}
+
+.years p {
+    margin: 0 4px;
+}
+
+.data_bottom {
+    display: flex;
+    justify-content: space-between;
 /*Navigation Style*/
 
 .navbar {
