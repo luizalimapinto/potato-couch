@@ -33,6 +33,11 @@ function showSerie(mySerie) {
 	const temp = document.querySelector("#seriesTemplate").content;
 	//clone the template
 	const myCopy = temp.cloneNode(true);
+	
+	const imgName = "img/" + mySerie.image + ".jpg";
+	
+	const img = myCopy.querySelector(".series_image"); img.setAttribute("src", imgName)
+	
 
 	//fill out the template
 
@@ -40,6 +45,8 @@ function showSerie(mySerie) {
 	myCopy.querySelector(".data_description").textContent = mySerie.description;
 	myCopy.querySelector(".started").textContent = mySerie.started;
 	myCopy.querySelector(".ended").textContent = mySerie.ended;
+	myCopy.querySelector(".data_episodesTotal span").textContent = mySerie.episodesTotal;
+	myCopy.querySelector(".data_seasons span").textContent = mySerie.seasons;
 
 	//setup classes for filtering
 	//1. find the elem
