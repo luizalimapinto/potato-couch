@@ -92,7 +92,7 @@
    "episodes": 8,
    "episodesTotal": 24,
    "started": 2017,
-   "ended": "-",
+   "ended": "",
    "description": "A recently released ex-convict named Shadow meets a mysterious man who calls himself \"Wednesday\" and who knows more than he first seems to about Shadow's life and past.",
    "image": "American-Gods",
    "stars": "8"
@@ -106,7 +106,7 @@
    "episodes": 6,
    "episodesTotal": 22,
    "started": 2011,
-   "ended": "-",
+   "ended": "",
    "description": "An anthology series exploring a twisted, high-tech multiverse where humanity's greatest innovations and darkest instincts collide.",
    "image": "Black-Mirror",
    "stars": "8,8"
@@ -120,7 +120,7 @@
    "episodes": 8,
    "episodesTotal": 29,
    "started": 2016,
-   "ended": "-",
+   "ended": "",
    "description": "Set at the intersection of the near future and the reimagined past, explore a world in which every human appetite can be indulged without consequence.",
    "image": "westworld",
    "stars": "8,5"
@@ -190,7 +190,7 @@
    "episodes": 10,
    "episodesTotal": 20,
    "started": 2016,
-   "ended": "-",
+   "ended": "",
    "description": "An anthology of human relationship stories connected by the only open in the wee hours diner the characters frequent. Resolutions are often facilitated by the owner/chef.",
    "image": "midnight Diner",
    "stars": "8,4"
@@ -246,7 +246,7 @@
    "episodes": 20,
    "episodesTotal": 20,
    "started": 2018,
-   "ended": "-",
+   "ended": "",
    "description": "A dangerously charming, intensely obsessive young man goes to extreme measures to insert himself into the lives of those he is transfixed by.",
    "image": "you",
    "stars": "7,8"
@@ -317,7 +317,7 @@
    "episodesTotal": 12,
    "started": 2018,
    "ended": "2018",
-   "description": "In the year 1930, vampires have infiltrated Tokyo to feast upon its unsuspecting citizens. As the number of victims continues to rise, the city's authorities decide to hire the Jaegers—a strange, diverse group of individuals tasked by the V Shipping Company to hunt down vampires around the world. Carrying musical instrument cases to disguise their identity, the Jaegers battle the vampires with the same mercilessness demonstrated by their foes",
+   "description": "In the year 1930, vampires have infiltrated Tokyo to feast upon its unsuspecting citizens. As the number of victims continues to rise, the city's authorities decide to hire the Jaegers—a strange, diverse group of individuals tasked by the V Shipping Company to hunt down vampires around the world.",
    "image": "sirius-the-jaeger",
    "stars": "7,1"
  },
@@ -386,7 +386,7 @@
    "episodes": 941,
    "episodesTotal": 941,
    "started": 1999,
-   "ended": "-",
+   "ended": "",
    "description": "Gol D. Roger was known as the \"Pirate King,\" the strongest and most infamous being to have sailed the Grand Line. The capture and execution of Roger by the World Government brought a change throughout the world. His last words before his death revealed the existence of the greatest treasure in the world, One Piece. It was this revelation that brought about the Grand Age of Pirates, men who dreamed of finding One Piece—which promises an unlimited amount of riches and fame—and quite possibly the pinnacle of glory and the title of the Pirate King.\n",
    "image": "one-piece",
    "stars": "8,5"
@@ -414,7 +414,7 @@
    "episodes": 10,
    "episodesTotal": 20,
    "started": 2019,
-   "ended": "-",
+   "ended": "",
    "description": "A family of former child heroes, now grown apart, must reunite to continue to protect the world.",
    "image": "the-umbrella-academy",
    "stars": "8,0"
@@ -456,7 +456,7 @@
    "episodes": 42,
    "episodesTotal": 42,
    "started": 2019,
-   "ended": "-",
+   "ended": "",
    "description": "Six strangers share a fabulous house in Tokyo, looking for love while living under the same roof. With no script what happens next is up to them.",
    "image": "terrace-house-tokyo",
    "stars": "7,5"
@@ -484,7 +484,7 @@
    "episodes": 10,
    "episodesTotal": 160,
    "started": 2009,
-   "ended": "-",
+   "ended": "",
    "description": "RuPaul searches for America's next drag superstar.",
    "image": "rupaul-drag-race",
    "stars": "8,5"
@@ -498,7 +498,7 @@
    "episodes": 15,
    "episodesTotal": 265,
    "started": 2006,
-   "ended": "-",
+   "ended": "",
    "description": "A reality competition show in which chefs compete against one another in culinary challenges and are a judged by a panel of food and wine experts, with one or more contestants eliminated each episode.",
    "image": "top-chef",
    "stars": "7,6"
@@ -512,7 +512,7 @@
    "episodes": 8,
    "episodesTotal": 8,
    "started": 2020,
-   "ended": "-",
+   "ended": "",
    "description": "In this travel show, actor Zac Efron journeys around the world with wellness expert Darin Olien in search of healthy, sustainable ways to live.",
    "image": "Down-to-Earth-with-ZacEfron",
    "stars": "8,1"
@@ -526,7 +526,7 @@
    "episodes": 10,
    "episodesTotal": 29,
    "started": 2017,
-   "ended": "-",
+   "ended": "",
    "description": "Eighteen competitors from six countries compete against each other in an intense obstacle course for cash prizes, individual glory and national pride.",
    "image": "ultimate-beastmaster",
    "stars": "7,3"
@@ -540,7 +540,7 @@
    "episodes": 6,
    "episodesTotal": 12,
    "started": 2018,
-   "ended": "-",
+   "ended": "",
    "description": "chilling glimpse into the first-person accounts from people who have witnessed horrifying, peculiar, extraordinary supernatural events and other unexplained phenomena that continue to haunt them.",
    "image": "haunted",
    "stars": "4,5"
@@ -554,7 +554,7 @@
    "episodes": 8,
    "episodesTotal": 8,
    "started": 2020,
-   "ended": "-",
+   "ended": "",
    "description": "When night falls on the city, shadows and spirits come alive in this horror anthology series centered on urban legends.",
    "image": "goedam",
    "stars": "5,7"
@@ -582,7 +582,7 @@
    "episodes": 15,
    "episodesTotal": 95,
    "started": 2011,
-   "ended": "-",
+   "ended": "",
    "description": "A scrappy, feisty, fiercely loyal Chicago family makes no apologies.",
    "image": "shameless",
    "stars": "8,6"
@@ -596,7 +596,7 @@
    "episodes": 10,
    "episodesTotal": 34,
    "started": 2013,
-   "ended": "-",
+   "ended": "",
    "description": "Bea Smith is locked up while awaiting trial for the attempted murder of her husband and must learn how life works in prison.",
    "image": "wentworth",
    "stars": "8,6"
@@ -624,7 +624,7 @@
    "episodes": 10,
    "episodesTotal": 11,
    "started": 2020,
-   "ended": "-",
+   "ended": "",
    "description": "A man is able to choose his own afterlife after his untimely death by having his consciousness uploaded into a virtual world. As he gets used to his new life and befriends his angel (real world handler) questions about his death arise.",
    "image": "upload",
    "stars": "8,0"
@@ -666,7 +666,7 @@
    "episodes": 7,
    "episodesTotal": 7,
    "started": 2018,
-   "ended": "-",
+   "ended": "",
    "description": "Four Australian couples find out if they can rekindle their old romances.",
    "image": "back-with-the-ex",
    "stars": "6,3"
@@ -694,7 +694,7 @@
    "episodes": 10,
    "episodesTotal": 10,
    "started": 2019,
-   "ended": "-",
+   "ended": "",
    "description": "A reality show featuring glass blowers from around the world competing to be the best. One artist is dismissed after each episode/challenge.",
    "image": "blown-away",
    "stars": "6,9"
@@ -792,7 +792,7 @@
    "episodes": 10,
    "episodesTotal": 11,
    "started": 2019,
-   "ended": "-",
+   "ended": "",
    "description": "After breaking up with her longtime boyfriend, a woman tries to reconnect with the friends she lost during the relationship.",
    "image": "dollface",
    "stars": "7,3"
@@ -806,7 +806,7 @@
    "episodes": 10,
    "episodesTotal": 40,
    "started": 2016,
-   "ended": "-",
+   "ended": "",
    "description": "A rising heart surgeon's life takes a turn he never expected and soon everything comes crashing down. He soon finds himself a former big city doctor turned small town doctor.",
    "image": "doctor-doctor",
    "stars": "7,9"
@@ -862,7 +862,7 @@
    "episodes": 6,
    "episodesTotal": 6,
    "started": 2020,
-   "ended": "-",
+   "ended": "",
    "description": "The series follows recovering addict and comedian Mae, who is trying to control the addictive behaviors and intense romanticism that permeate every facet of her life.",
    "image": "feel-good",
    "stars": "7,5"
@@ -918,7 +918,7 @@
    "episodes": 8,
    "episodesTotal": 8,
    "started": 2019,
-   "ended": "-",
+   "ended": "",
    "description": "Investigators help distraught individuals track down and confront people who vanished by stopping all communications and blocking them.",
    "image": "ghosted-love-gone-missing",
    "stars": "5,3"
@@ -932,7 +932,7 @@
    "episodes": 12,
    "episodesTotal": 32,
    "started": 2019,
-   "ended": "-",
+   "ended": "",
    "description": "Callie and Mariana Foster move to Los Angeles and begin their lives as young adults.",
    "image": "good-trouble",
    "stars": "7,4"
@@ -1044,7 +1044,7 @@
    "episodes": 8,
    "episodesTotal": 14,
    "started": 2018,
-   "ended": "-",
+   "ended": "",
    "description": "Amy Poehler and Nick Offerman host a crafting series where incredibly talented people come together for a friendly competition.",
    "image": "making-it",
    "stars": "7,9"
@@ -1058,7 +1058,7 @@
    "episodes": 7,
    "episodesTotal": 11,
    "started": 2020,
-   "ended": "-",
+   "ended": "",
    "description": "A trio of witches are trained to become powerful weapons for the American military.",
    "image": "motherland-fort-salem",
    "stars": "7,1"
@@ -1086,7 +1086,7 @@
    "episodes": 8,
    "episodesTotal": 8,
    "started": 2019,
-   "ended": "-",
+   "ended": "",
    "description": "Guardian angel Uli is new to the Angelus System. A rebel spirit, he makes shocking discoveries about life and how the world is run when he goes rogue. ",
    "image": "nobody's-looking",
    "stars": "7,8"
@@ -1100,7 +1100,7 @@
    "episodes": 13,
    "episodesTotal": 52,
    "started": 2017,
-   "ended": "-",
+   "ended": "",
    "description": "Follows three generations of the same Cuban-American family living in the same house: a newly divorced former military mother, her teenage daughter and tween son, and her old-school mother.",
    "image": "one-day-at-a-time",
    "stars": "8,2"
@@ -1114,7 +1114,7 @@
    "episodes": 12,
    "episodesTotal": 24,
    "started": 2019,
-   "ended": "-",
+   "ended": "",
    "description": "The comedic story of middle school seen through the eyes of two 7th grade girls dealing with the awkwardness of being a teenager.",
    "image": "pen15",
    "stars": "7,9"
@@ -1128,7 +1128,7 @@
    "episodes": 6,
    "episodesTotal": 6,
    "started": 2018,
-   "ended": "-",
+   "ended": "",
    "description": "When a singer is found murdered, with her scent glands excised from her body, detectives probe a group of friends who attended boarding school with her.",
    "image": "parfum",
    "stars": "7,1"
@@ -1156,7 +1156,7 @@
    "episodes": 8,
    "episodesTotal": 14,
    "started": 2018,
-   "ended": "-",
+   "ended": "",
    "description": "A child star in the '80s, Samantha clings to the fringes of celebrity with hilarious harebrained schemes to launch herself back into stardom.",
    "image": "samantha!",
    "stars": "6,5"
@@ -1170,7 +1170,7 @@
    "episodes": 10,
    "episodesTotal": 40,
    "started": 2016,
-   "ended": "-",
+   "ended": "",
    "description": "Search Party is a single-camera dark comedy about four self-absorbed twenty-somethings who become entangled in an ominous mystery when a former college acquaintance suddenly disappears.",
    "image": "search-party",
    "stars": "7,6"
@@ -1226,7 +1226,7 @@
    "episodes": 8,
    "episodesTotal": 8,
    "started": 2020,
-   "ended": "-",
+   "ended": "",
    "description": "A group of young adults, who meet online, get a hold of a cult underground graphic novel, which not only pins them as a target of a shadowy deep state organization, but also burdens them with the dangerous task of saving the world.",
    "image": "utopia",
    "stars": "4,5"
@@ -1240,7 +1240,7 @@
    "episodes": 7,
    "episodesTotal": 21,
    "started": 2019,
-   "ended": "-",
+   "ended": "",
    "description": "A look into the daily (or rather, nightly) lives of three vampires, who've lived together for over 100 years, on Staten Island.",
    "image": "what-we-do-in-the-shadows",
    "stars": "8,5"
@@ -1254,7 +1254,7 @@
    "episodes": 10,
    "episodesTotal": 10,
    "started": 2020,
-   "ended": "-",
+   "ended": "",
    "description": "The ultimate team survival competition pits contestants in a series of grueling activities in a race around the globe.",
    "image": "worlds-toughest-race",
    "stars": "7,7"

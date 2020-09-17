@@ -38,6 +38,8 @@ function showSerie(mySerie) {
 
 	myCopy.querySelector(".data_name").textContent = mySerie.name;
 	myCopy.querySelector(".data_description").textContent = mySerie.description;
+	myCopy.querySelector(".started").textContent = mySerie.started;
+	myCopy.querySelector(".ended").textContent = mySerie.ended;
 
 	//setup classes for filtering
 	//1. find the elem
