@@ -23,7 +23,7 @@ const temp = document.querrySelector("#seriesTemplate").content;
 
     //fill out the template
     
-myCopy.querySelector(".data_name").textContet = myProduct.name
+/* myCopy.querySelector(".data_name").textContet = myProduct.name */
 
 
  
